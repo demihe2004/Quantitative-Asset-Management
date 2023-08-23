@@ -4,7 +4,8 @@
 Monthly_CRSP_Universe = pd.merge(Monthly_CRSP_Bonds, Monthly_CRSP_Riskless, on=['Year', 'Month'], how='outer')
 ```
 
-![image](https://github.com/demihe2004/Quantitative-Asset-Management/assets/135466801/09aec6aa-e1da-4f52-9640-196f02e89ec6)
+![image](https://github.com/demihe2004/Quantitative-Asset-Management/assets/135466801/ce88af8f-10e1-42de-86f6-4dda86f0482c)
+
 
 # 2. Get vw/ 60/40/ unlevered risk parity/ levered risk parity portfolio return 
 
