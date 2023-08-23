@@ -23,3 +23,10 @@ Replicate risk parity portfolio from Asness, Frazzini, and Pedersen (2012) and c
 - Divide bins and get value weighted return for each bin
 - Create WML/ SMB signal by assigning factors to each company
 - Calculate accumalated log excess return and other stats to compared with Fama French
+
+**Project 4**
+---
+Replicate Volatility-Managed Portfolios, Moreira and Muir (2017)
+- Research on economic intuition, factor volatility trend and Volatility-Managed Portfolios
+- Replicated for period 1926 to 2015 and run Single-Factor Portfolios Univariate Regressions
+- Predict volatiliy using GARCH model and test for out of sample Volatility-Managed Portfolio
